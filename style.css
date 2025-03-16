@@ -1,0 +1,26 @@
+/* Styles de base */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+/* Conteneur principal */
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+/* Styles du titre */
+h1 {
+    color: #333;
+}
+
+/* Styles du texte */
+p {
+    color: #666;
+}
